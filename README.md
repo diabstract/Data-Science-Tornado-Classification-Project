@@ -1,1 +1,1 @@
-# Data-Science-Tornado-Classification-Project
+# Data Science Tornado Classification Project
